@@ -12,23 +12,22 @@ It also includes alternate images in the `images` folder in case you want to cus
 
 Primera parte de la página web/ First part of the website :
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](https://github.com/MinervaCastillo/Portafolio_Mine/assets/131712009/306b5a18-d9d7-4ebe-ae1f-7f7b1092827f)
 
 Experiencia / Experience:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](https://github.com/MinervaCastillo/Portafolio_Mine/assets/131712009/09febcb5-aaba-4c51-9125-b7062b942447)
+
 
 Proyectos/ Projects:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![M3](https://github.com/MinervaCastillo/Portafolio_Mine/assets/131712009/a0ba62d7-5e7c-4141-b84a-b843aeec6d1e)
+
 
 Testimonios / Testimonials:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![M4](https://github.com/MinervaCastillo/Portafolio_Mine/assets/131712009/1842193d-c18d-4161-a764-0c3c3a499d05)
 
-Contacto:
-
-![Contacto](imagenes/readme/screenshot5.png)
 
 ## Tecnologías /Technologies 🤖
 
